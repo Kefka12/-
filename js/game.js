@@ -1,4 +1,4 @@
-$(function () {
+$(function () { 
     let p1=localStorage.getItem("p1name");
     let p2=localStorage.getItem("p2name");
     let p3=localStorage.getItem("p3name");
